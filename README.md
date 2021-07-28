@@ -1,6 +1,6 @@
 # 인텔리제이 단축기 모음
 
-alt + insert = generate(생성자, 게터, 세터)
+alt + insert = generate(생성자, 게터, 세터) <br>
 alt + insert = 파일, 패키지 만들기
 ctrl + alt + m = 메소드생성, 메소드추출
 ctrl + p = 생성자의 데이터 확인할수있음
