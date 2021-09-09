@@ -21,6 +21,7 @@ ctrl + alt + b = interface에서 사용시 해당 구현체를 보여줌 <br>
 shift + Ctrl + F = 경로에서 문자열 찾기(왼쪽 Project에서 어디서 찾을지 선택해야함 <br>
 ctrl + alt = 블럭지정된 곳을 함수로 뺀다 <br>
 ctrl + alt + p = 메소드에서 현재 위치해있는 곳을 인자로 뺄수있다 <br>
+shift + f6 = 클래스, 메소드 이름변경 <br>
 
 
 # 인텔리제이 환경설정
